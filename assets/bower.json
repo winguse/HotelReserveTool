@@ -1,0 +1,19 @@
+{
+  "name": "HotelReserveTool",
+  "version": "0.0.0",
+  "authors": [
+    "winguse <winguse@msn.com>"
+  ],
+  "dependencies": {
+    "bootstrap": null
+  },
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
